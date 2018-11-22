@@ -23,8 +23,10 @@ Development
 7)Create a Pull Request
 
 Contact details
-If you have a problem with my code, please contact me
+
+- If you have a problem with my code, please contact me
 
 License
-This project is licensed under the terms of the MIT license.
+
+-This project is licensed under the terms of the MIT license.
 
