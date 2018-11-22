@@ -15,6 +15,7 @@ Technologies Used
 Development
 
 If you want to contribute by fixing a bug or enhance an existing module, follow these steps: 
+
 -Fork the repo
 -Create a new branch (git checkout -b improve-feature)
 -Make the appropriate changes in the files
